@@ -41,7 +41,7 @@ git clone https://github.com/YZCU/ProFiT.git
 ## Results
 
 
-- Performance evaluation with HSP arts on the HOTC20’s HSP modality. (a) Precision plot. (b) Success plot.
+- Performance evaluation with hyperspectral arts on the HOTC20’s HSP modality. (a) Precision plot. (b) Success plot.
  ![image](/fig/hotc20.jpg)
 
 - Accuracy-speed trade-off of SOTA hyperspectral arts on the HOTC20 benchmark.
