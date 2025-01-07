@@ -1,6 +1,7 @@
 # ProFiT 
 ## The official implementation for [ProFiT](https://www.sciencedirect.com/science/article/pii/S0924271624000856).
 - ♪ Hopefully something good will happen for all of us ♪
+- Red: Our ProFiT, Blue: Ground Truth.
 - ![image](/fig/leaf.gif)![image](/fig/rain.gif)
 --------------------------------------------------------------------------------------
 :running:Keep updating:running:: More detailed tracking results for ProFiT have been released.
