@@ -2,6 +2,7 @@
 The official implementation for [ProFiT](https://www.sciencedirect.com/science/article/pii/S0924271624000856)
 - Red: Our ProFiT, Blue: Ground Truth.
 - ![image](/fig/duck.gif)
+- ![image](/fig/leaf.gif)
 - ![image](/fig/rain.gif)
  
  
