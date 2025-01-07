@@ -4,7 +4,7 @@
 - Red: Our ProFiT, Blue: Ground Truth.
 - ![image](/fig/leaf.gif)![image](/fig/rain.gif)
 --------------------------------------------------------------------------------------
-:running:Keep updating:running:: More detailed tracking results for ProFiT have been released.
+:running:Keep Updating:running:: More detailed tracking results for ProFiT have been released.
 | Benchmark (Metrics)          | ProFiT          | Results                                                                   |
 | ---------------------------- | --------------- | ------------------------------------------------------------------------- |
 | [HOTC20test](https://www.hsitracking.com/) (Pre / Suc)       |  0.971 / 0.758  | https://github.com/YZCU/ProFiT/tree/main/tracking_results/hotc2020        |
