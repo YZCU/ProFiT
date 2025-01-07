@@ -16,7 +16,7 @@ The official implementation for [ProFiT](https://www.sciencedirect.com/science/a
 
 ##  Install
 ```
-git clone https://github.com/YZCU/SSTtrack.git
+git clone https://github.com/YZCU/ProFiT.git
 ```
 ## Environment
  > * CUDA 11.8
