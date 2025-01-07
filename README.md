@@ -70,8 +70,6 @@ git clone https://github.com/YZCU/ProFiT.git
  ![image](/fig/curve.jpg)
 - Red: Our ProFiT, Blue: Ground Truth.
 - ![image](/fig/duck.gif)
-- ![image](/fig/leaf.gif)
-- ![image](/fig/rain.gif)
 
 :heart:  :heart:
 
