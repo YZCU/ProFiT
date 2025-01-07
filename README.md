@@ -1,6 +1,8 @@
 # ProFiT ~~ ♪ Hopefully something good will happen for all of us ♪
 The official implementation for [ProFiT](https://www.sciencedirect.com/science/article/pii/S0924271624000856)
-
+- Some samples. red: Ours, blue: ground truth.
+ ![image](/fig/duck.gif)
+ ![image](/fig/rain.gif)
 --------------------------------------------------------------------------------------
 :running:Keep updating:running:: More detailed tracking results for ProFiT have been released.
 - [hotc20test](https://www.hsitracking.com/) ([results](https://github.com/YZCU/ProFiT/tree/master/tracking_results))
@@ -39,8 +41,7 @@ git clone https://github.com/YZCU/ProFiT.git
 - Relevant tracking results are provided in `ProFiT\tracking_results\hotc20test`. More evaluation results are provided in a `ProFiT\tracking_results`.
 
 ## Results
-- A sample: A duck moves from slow swimming to fast winging on the lake.
- ![image](/fig/duck.gif)
+
 
 - Performance evaluation with HSP arts on the HOTC20’s HSP modality. (a) Precision plot. (b) Success plot.
  ![image](/fig/hotc20.jpg)
