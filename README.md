@@ -1,4 +1,5 @@
-# ProFiT ~~ ♪ Hopefully something good will happen for all of us ♪
+# ProFiT 
+♪ Hopefully something good will happen for all of us ♪
 The official implementation for [ProFiT](https://www.sciencedirect.com/science/article/pii/S0924271624000856)
  
 --------------------------------------------------------------------------------------
