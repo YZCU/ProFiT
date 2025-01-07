@@ -1,10 +1,5 @@
 # ProFiT ~~ ♪ Hopefully something good will happen for all of us ♪
 The official implementation for [ProFiT](https://www.sciencedirect.com/science/article/pii/S0924271624000856)
-- Red: Our ProFiT, Blue: Ground Truth.
-- ![image](/fig/duck.gif)
-- ![image](/fig/leaf.gif)
-- ![image](/fig/rain.gif)
- 
  
 --------------------------------------------------------------------------------------
 :running:Keep updating:running:: More detailed tracking results for ProFiT have been released.
@@ -69,6 +64,10 @@ git clone https://github.com/YZCU/ProFiT.git
 
 - Overlap curves and tracking samples of ProFiT are presented in various complex scenarios.
  ![image](/fig/curve.jpg)
+- Red: Our ProFiT, Blue: Ground Truth.
+- ![image](/fig/duck.gif)
+- ![image](/fig/leaf.gif)
+- ![image](/fig/rain.gif)
 
 :heart:  :heart:
 
