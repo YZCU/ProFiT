@@ -24,7 +24,7 @@ git clone https://github.com/YZCU/ProFiT.git
  > * PyTorch 2.0.0
  > * Torchvision 0.15.0
  > * numpy 1.25.0 
- - Please check the `requirement.txt` for details.
+ - Please check the `requirement.txt` for more env details.
 
 ## Usage
 - Download the RGB/Hyperspectral training/test datasets: [LaSOT](https://cis.temple.edu/lasot/), [GOT-10K](http://got-10k.aitestunion.com/downloads), [COCO](http://cocodataset.org), [HOTC](https://www.hsitracking.com/hot2022/), [MSSOT](https://github.com/Chenlulu1993/SMT), [MSVT](https://github.com/polwork/HOMG), and [TrackingNet](https://tracking-net.org/#downloads).
