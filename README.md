@@ -1,6 +1,7 @@
 # ProFiT ~~ ♪ Hopefully something good will happen for all of us ♪
 The official implementation for [ProFiT](https://www.sciencedirect.com/science/article/pii/S0924271624000856)
-- Some samples. red: Ours, blue: ground truth.
+- Some samples:
+- Red: Our ProFiT, Blue: Ground Truth.
  ![image](/fig/duck.gif)
  ![image](/fig/rain.gif)
 --------------------------------------------------------------------------------------
