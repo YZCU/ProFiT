@@ -5,7 +5,7 @@
 - ![image](/fig/duck.gif)
 - ![image](/fig/leaf.gif)
 - ![image](/fig/rain.gif)
-
+<!---
 --------------------------------------------------------------------------------------
 :running:Keep Updating:running:: More detailed tracking results for ProFiT have been released.
 | Benchmark (Metrics)          | ProFiT          | Results                                                                   |
@@ -19,7 +19,7 @@
 | [HOTC24val_VIS](https://www.hsitracking.com/) (Pre / Suc)    |  0.721 / 0.561  | https://github.com/YZCU/ProFiT/tree/main/tracking_results/hotc2024_vis    |
 | [MSSOT](https://www.sciencedirect.com/science/article/pii/S0924271623002551) (Pre / Suc)            |  0.857 / 0.602  | https://github.com/YZCU/ProFiT/tree/main/tracking_results/mssot           |
 | [MSVT](https://www.sciencedirect.com/science/article/pii/S0924271621002860) (Pre / Suc)             |  0.967 / 0.754  | https://github.com/YZCU/ProFiT/tree/main/tracking_results/msvt            |
-
+-->
 --------------------------------------------------------------------------------------
 
 ##  Install
@@ -44,7 +44,7 @@ git clone https://github.com/YZCU/ProFiT.git
 - Refer to [HOTC](https://www.hsitracking.com/hot2022/) for evaluation.
 - Evaluation of the ProFiT tracker. Run `\tracker_benchmark_v1.0\perfPlot.m`
 - Relevant tracking results are provided in `ProFiT\tracking_results\hotc20test`. More evaluation results are provided in a `ProFiT\tracking_results`.
-
+<!---
 ## Results
 - Performance evaluation with hyperspectral arts on the HOTC20’s hyperspectral modality. (a) Precision plot. (b) Success plot.
  ![image](/fig/hotc20.jpg)
@@ -69,7 +69,7 @@ git clone https://github.com/YZCU/ProFiT.git
 
 - Overlap curves and tracking samples of ProFiT are presented in various complex scenarios.
  ![image](/fig/curve.jpg)
-
+-->
 
 :heart:  :heart:
 
