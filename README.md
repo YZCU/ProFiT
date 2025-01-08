@@ -33,7 +33,6 @@ git clone https://github.com/YZCU/ProFiT.git
 
 ## Usage
 - Download the RGB/Hyperspectral training/test datasets: [LaSOT](https://cis.temple.edu/lasot/), [GOT-10K](http://got-10k.aitestunion.com/downloads), [COCO](http://cocodataset.org), [HOTC](https://www.hsitracking.com/hot2022/), [MSSOT](https://github.com/Chenlulu1993/SMT), [MSVT](https://github.com/polwork/HOMG), and [TrackingNet](https://tracking-net.org/#downloads).
-- Download the pretrained model: [pretrained model~updating](https://pan.baidu.com/) (code: ProFiT) to `pretrained_models/`.
 - Please train the ProFiT's [foundation model~updating](https://pan.baidu.com) (code: ProFiT) on the LaSOT, GOT-10K, COCO, and TrackingNet datasets.
 - We will release the well-trained model of [ProFiT~updating](https://pan.baidu.com/) (code: ProFiT).
 - The generated model will be saved to the path of `output/train/ProFiT/ProFiT_model/`.
