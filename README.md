@@ -1,7 +1,7 @@
 # ProFiT (Updating)
 ##  The official implementation for [ProFiT](https://www.sciencedirect.com/science/article/pii/S0924271624000856).
 - ♪ Hopefully something good will happen for all of us ♪
-- Red --> ProFiT. Blue --> Ground Truth. The Rest --> Compared Arts
+- Red --> ProFiT. Blue --> Ground Truth. The Rest --> Compared Arts.
 - ![image](/fig/duck.gif)
 - ![image](/fig/leaf.gif)
 - ![image](/fig/rain.gif)
