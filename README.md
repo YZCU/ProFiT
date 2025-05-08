@@ -9,17 +9,17 @@
 -->
 --------------------------------------------------------------------------------------
 :running:Keep Updating:running:: More detailed tracking results for ProFiT have been released.
-| Benchmark (Metrics)          | ProFiT          | Results                                                                   |
-| ---------------------------- | --------------- | ------------------------------------------------------------------------- |
-| [HOTC20test](https://www.hsitracking.com/) (Pre / Suc)       |  0.971 / 0.758  | https://github.com/YZCU/ProFiT/tree/main/tracking_results/hotc2020        |
-| [HOTC23val_NIR](https://www.hsitracking.com/) (Pre / Suc)    |  0.947 / 0.754  | https://github.com/YZCU/ProFiT/tree/main/tracking_results/hotc2023_nir    |
-| [HOTC23val_RedNIR](https://www.hsitracking.com/) (Pre / Suc) |  0.755 / 0.613  | https://github.com/YZCU/ProFiT/tree/main/tracking_results/hotc2023_rednir |
-| [HOTC23val_VIS](https://www.hsitracking.com/) (Pre / Suc)    |  0.915 / 0.720  | https://github.com/YZCU/ProFiT/tree/main/tracking_results/hotc2023_vis    |
-| [HOTC24val_NIR](https://www.hsitracking.com/) (Pre / Suc)    |  0.949 / 0.763  | https://github.com/YZCU/ProFiT/tree/main/tracking_results/hotc2024_nir    |
-| [HOTC24val_RedNIR](https://www.hsitracking.com/) (Pre / Suc) |  0.750 / 0.581  | https://github.com/YZCU/ProFiT/tree/main/tracking_results/hotc2024_rednir |
-| [HOTC24val_VIS](https://www.hsitracking.com/) (Pre / Suc)    |  0.721 / 0.561  | https://github.com/YZCU/ProFiT/tree/main/tracking_results/hotc2024_vis    |
-| [MSSOT](https://www.sciencedirect.com/science/article/pii/S0924271623002551) (Pre / Suc)            |  0.857 / 0.602  | https://github.com/YZCU/ProFiT/tree/main/tracking_results/mssot           |
-| [MSVT](https://www.sciencedirect.com/science/article/pii/S0924271621002860) (Pre / Suc)             |  0.967 / 0.754  | https://github.com/YZCU/ProFiT/tree/main/tracking_results/msvt            |
+| Benchmark (Metrics)            | ProFiT (Pre / Suc)  | Results                                                                   |
+| ------------------------------ | ------------------- | ------------------------------------------------------------------------- |
+| [HOTC20test](https://www.hsitracking.com/)           |  0.971 / 0.758  | https://github.com/YZCU/ProFiT/tree/main/tracking_results/hotc2020        |
+| [HOTC23val_NIR](https://www.hsitracking.com/)        |  0.947 / 0.754  | https://github.com/YZCU/ProFiT/tree/main/tracking_results/hotc2023_nir    |
+| [HOTC23val_RedNIR](https://www.hsitracking.com/)     |  0.755 / 0.613  | https://github.com/YZCU/ProFiT/tree/main/tracking_results/hotc2023_rednir |
+| [HOTC23val_VIS](https://www.hsitracking.com/)        |  0.915 / 0.720  | https://github.com/YZCU/ProFiT/tree/main/tracking_results/hotc2023_vis    |
+| [HOTC24val_NIR](https://www.hsitracking.com/)        |  0.949 / 0.763  | https://github.com/YZCU/ProFiT/tree/main/tracking_results/hotc2024_nir    |
+| [HOTC24val_RedNIR](https://www.hsitracking.com/)     |  0.750 / 0.581  | https://github.com/YZCU/ProFiT/tree/main/tracking_results/hotc2024_rednir |
+| [HOTC24val_VIS](https://www.hsitracking.com/)        |  0.721 / 0.561  | https://github.com/YZCU/ProFiT/tree/main/tracking_results/hotc2024_vis    |
+| [MSSOT](https://www.sciencedirect.com/science/article/pii/S0924271623002551)             |  0.857 / 0.602  | https://github.com/YZCU/ProFiT/tree/main/tracking_results/mssot           |
+| [MSVT](https://www.sciencedirect.com/science/article/pii/S0924271621002860)             |  0.967 / 0.754  | https://github.com/YZCU/ProFiT/tree/main/tracking_results/msvt            |
 
 --------------------------------------------------------------------------------------
 
