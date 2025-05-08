@@ -46,7 +46,7 @@ git clone https://github.com/YZCU/ProFiT.git
 - Evaluation of the ProFiT tracker. Run `\tracker_benchmark_v1.0\perfPlot.m`
 - Relevant tracking results are provided in `ProFiT\tracking_results\hotc20test`. More evaluation results are provided in a `ProFiT\tracking_results`.
 <!---
--->
+
 ## Results
 - Performance evaluation with hyperspectral arts on the HOTC20’s hyperspectral modality. (a) Precision plot. (b) Success plot.
  ![image](/fig/hotc20.jpg)
@@ -71,7 +71,7 @@ git clone https://github.com/YZCU/ProFiT.git
 
 - Overlap curves and tracking samples of ProFiT are presented in various complex scenarios.
  ![image](/fig/curve.jpg)
-
+-->
 
 :heart:  :heart:
 
