@@ -1,14 +1,38 @@
-# ProFiT
-##  The official implementation for [ProFiT](https://www.sciencedirect.com/science/article/pii/S0924271624000856).
-<!---
-- ♪ Hopefully something good will happen for all of us ♪
--->
+### [**ProFiT**](https://www.sciencedirect.com/science/article/)
+
+The official implementation for "**ProFiT: A Prompt-Guided Frequency-Aware Filtering and Template-Enhanced Interaction Framework for Hyperspectral Video Tracking**", ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS), 2025.
+
+--------------------------------------------------------------------------------------
+
+:running:Keep updating:running:: We have released the code and result of ProFiT.
+
+--------------------------------------------------------------------------------------
+- Authors:
+[Yuzeng Chen](https://yzcu.github.io/),
+[Qiangqiang Yuan](http://qqyuan.users.sgg.whu.edu.cn/),
+[Yuqi Tang](https://faculty.csu.edu.cn/yqtang/zh_CN/zdylm/66781/list/index.htm),
+Xin Wang,
+[Yi Xiao](https://github.com/XY-boy),
+Jiang He,
+Ziyang Lihe,
+Xianyu Jin
+--------------------------------------------------------------------------------------
 - Red --> ProFiT. Blue --> Ground Truth. The Rest --> Compared Arts.
 - ![image](/fig/duck.gif)
 - ![image](/fig/leaf.gif)
 - ![image](/fig/rain.gif)
-<!---
--->
+
+##  Install
+```
+git clone https://github.com/YZCU/ProFiT.git
+```
+## Environment
+ > * CUDA 11.8
+ > * Python 3.9.18
+ > * PyTorch 2.0.0
+ > * Torchvision 0.15.0
+ > * numpy 1.25.0
+
 --------------------------------------------------------------------------------------
 :running:Keep Updating:running:: More detailed tracking results for ProFiT have been released.
 | Benchmark (Metrics)            | ProFiT (Pre / Suc)  | Results                                                                   |
