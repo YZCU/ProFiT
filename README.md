@@ -4,7 +4,7 @@ The official implementation for "**ProFiT: A Prompt-Guided Frequency-Aware Filte
 
 --------------------------------------------------------------------------------------
 
-:running:Keep updating:running:: We have released the code and result of ProFiT.
+:running:Keep updating:running:: We have released the code and result of ProFiT. (DOING)
 
 --------------------------------------------------------------------------------------
 - Authors:
