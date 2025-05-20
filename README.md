@@ -37,16 +37,21 @@ git clone https://github.com/YZCU/ProFiT.git
  > * numpy 1.25.0 
  - Please check the `requirement.txt` for more env details.
 
+
 ## Usage
-- Download the RGB/Hyperspectral training/test datasets: [LaSOT](https://cis.temple.edu/lasot/), [GOT-10K](http://got-10k.aitestunion.com/downloads), [COCO](http://cocodataset.org), [HOTC](https://www.hsitracking.com/hot2022/), [MSSOT](https://github.com/Chenlulu1993/SMT), [MSVT](https://github.com/polwork/HOMG), and [TrackingNet](https://tracking-net.org/#downloads).
-- Please train the ProFiT's [foundation model~updating](https://pan.baidu.com) (code: ProFiT) on the LaSOT, GOT-10K, COCO, and TrackingNet datasets.
-- We will release the well-trained model of [ProFiT~updating](https://pan.baidu.com/) (code: ProFiT).
-- The generated model will be saved to the path of `output/train/ProFiT/ProFiT_model/`.
-- Please test the model. The results will be saved in the path of `output/results/ProFiT/`.
+- Training: Download the RGB/Hyperspectral training/test datasets: [LaSOT](https://cis.temple.edu/lasot/), [GOT-10K](http://got-10k.aitestunion.com/downloads), [COCO](http://cocodataset.org), [HOTC](https://www.hsitracking.com/hot2022/), [MSSOT](https://github.com/Chenlulu1993/SMT), [MSVT](https://github.com/polwork/HOMG), and [TrackingNet](https://tracking-net.org/#downloads).
+- Fast Training: Please download the [pre-trained model](https://pan.baidu.com)(code: yzcu) of SpectralTrack and SpectralTrack+'s. Please Put the pre-trained model into <pretrained_models>.
+- Run <tracking/0train_SpectralTrack.py> and <tracking/0train_SpectralTrack+.py> to train SpectralTrack. SpectralTrack+--><tracking/0train_SpectralTrack+.py>
+- The trained SpectralTrack model will be saved in <output/train/yzcu/yzcu/yzcu_ep0030.pth.tar>. SpectralTrack+--><output/train/yzcu/yzcu+/yzcu_ep0030.pth.tar>
+- We have also released the trained [SpectralTrack](https://pan.baidu.com)(code: yzcu) and [SpectralTrack+](https://pan.baidu.com)(code: yzcu) tracking models.
+- Testing: Run <tracking/1test_SpectralTrack+.py>. <tracking/1test_SpectralTrack+.py>--><output/results/yzcu/yzcu+>
 - For evaluation, please download the evaluation benchmark [Toolkit](http://cvlab.hanyang.ac.kr/tracker_benchmark/) and [vlfeat](http://www.vlfeat.org/index.html) for more precision performance evaluation.
 - Refer to [HOTC](https://www.hsitracking.com/hot2022/) for evaluation.
-- Evaluation of the ProFiT tracker. Run `\tracker_benchmark_v1.0\perfPlot.m`
-- Relevant tracking results are provided in `ProFiT\tracking_results\hotc20test`. More evaluation results are provided in a `ProFiT\tracking_results`.
+- Evaluation of the SpectralTrack and SpectralTrack+ tracker. Run `\tracker_benchmark_v1.0\perfPlot.m`
+- Relevant tracking results are provided in `SpectralTrack and SpectralTrack+\tracking_results\hotc20test`.
+
+:heart:  :heart:
+
 <!---
 
 ## Results
