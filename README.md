@@ -1,12 +1,17 @@
+--------------------------------------------------------------------------------------
 ### [**ProFiT**](https://www.sciencedirect.com/science/article/)
 
-The official implementation for "**ProFiT: A Prompt-Guided Frequency-Aware Filtering and Template-Enhanced Interaction Framework for Hyperspectral Video Tracking**", ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS), 2025.
-
+- The official implementation for "**ProFiT: A Prompt-Guided Frequency-Aware Filtering and Template-Enhanced Interaction Framework for Hyperspectral Video Tracking**".
+- ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS), 2025.
 --------------------------------------------------------------------------------------
 
-:running:Keep updating:running:: We have released the code and result of ProFiT. (DOING)
-
+:running:Keep updating:running::
+- Trained models of [ProFiT](https://drive.google.com/drive/folders/189muRTkQTzAKM3JQHnh3_FzOqytvmz5d?hl=zh-cn) has been released.
+- Training and testing codes of [ProFiT](https://github.com/YZCU/SpectralTrack/blob/main/training%20and%20testing%20codes%20of%20SpectralTrack%20and%20SpectralTrack%2B.zip) has been released.
+- Tracking results [ProFiT](https://github.com/YZCU/SpectralTrack/blob/main/rect_results%20of%20SpectralTrack%20and%20SpectralTrack%2B.zip) has been released.
 --------------------------------------------------------------------------------------
+
+<!--
 - Authors:
 [Yuzeng Chen](https://yzcu.github.io/),
 [Qiangqiang Yuan](http://qqyuan.users.sgg.whu.edu.cn/),
@@ -17,11 +22,13 @@ Jiang He,
 Ziyang Lihe,
 Xianyu Jin
 --------------------------------------------------------------------------------------
+-->
+
 - Red --> ProFiT. Blue --> Ground Truth. The Rest --> Compared Arts.
 - ![image](/fig/duck.gif)
 - ![image](/fig/leaf.gif)
 - ![image](/fig/rain.gif)
-
+--------------------------------------------------------------------------------------
 ##  Install
 ```
 git clone https://github.com/YZCU/ProFiT.git
@@ -32,18 +39,17 @@ git clone https://github.com/YZCU/ProFiT.git
  > * PyTorch 2.0.0
  > * Torchvision 0.15.0
  > * numpy 1.25.0
-
 --------------------------------------------------------------------------------------
 :running:Keep Updating:running:: More detailed tracking results for ProFiT have been released.
-| Benchmark (Metrics)            | ProFiT (Pre / Suc)  | Results                                                                   |
-| ------------------------------ | ------------------- | ------------------------------------------------------------------------- |
-| [HOTC20test](https://www.hsitracking.com/)           |  0.971 / 0.758  | https://github.com/YZCU/ProFiT/tree/main/tracking_results/hotc2020        |
-| [HOTC23val_NIR](https://www.hsitracking.com/)        |  0.947 / 0.754  | https://github.com/YZCU/ProFiT/tree/main/tracking_results/hotc2023_nir    |
-| [HOTC23val_RedNIR](https://www.hsitracking.com/)     |  0.755 / 0.613  | https://github.com/YZCU/ProFiT/tree/main/tracking_results/hotc2023_rednir |
-| [HOTC23val_VIS](https://www.hsitracking.com/)        |  0.915 / 0.720  | https://github.com/YZCU/ProFiT/tree/main/tracking_results/hotc2023_vis    |
-| [HOTC24val_NIR](https://www.hsitracking.com/)        |  0.949 / 0.763  | https://github.com/YZCU/ProFiT/tree/main/tracking_results/hotc2024_nir    |
-| [HOTC24val_RedNIR](https://www.hsitracking.com/)     |  0.750 / 0.581  | https://github.com/YZCU/ProFiT/tree/main/tracking_results/hotc2024_rednir |
-| [HOTC24val_VIS](https://www.hsitracking.com/)        |  0.721 / 0.561  | https://github.com/YZCU/ProFiT/tree/main/tracking_results/hotc2024_vis    |
+| Benchmark            | ProFiT (Pre/Suc)  |
+| ------------------------------ | ------------------- |
+| [HOTC20](https://www.hsitracking.com/)           |  0.971 / 0.758  |
+| [NIR23](https://www.hsitracking.com/)        |  0.947 / 0.754  |
+| [RedNIR23](https://www.hsitracking.com/)     |  0.755 / 0.613  |
+| [VIS23](https://www.hsitracking.com/)        |  0.915 / 0.720  |
+| [NIR24](https://www.hsitracking.com/)        |  0.949 / 0.763  |
+| [RedNIR24](https://www.hsitracking.com/)     |  0.750 / 0.581  |
+| [VIS24](https://www.hsitracking.com/)        |  0.721 / 0.561  |
 | [MSSOT](https://www.sciencedirect.com/science/article/pii/S0924271623002551)             |  0.857 / 0.602  | https://github.com/YZCU/ProFiT/tree/main/tracking_results/mssot           |
 | [MSVT](https://www.sciencedirect.com/science/article/pii/S0924271621002860)             |  0.967 / 0.754  | https://github.com/YZCU/ProFiT/tree/main/tracking_results/msvt            |
 
