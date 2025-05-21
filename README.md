@@ -6,9 +6,9 @@
 --------------------------------------------------------------------------------------
 
 :running:Keep updating:running::
-- Trained models of [ProFiT](https://drive.google.com/drive/folders/189muRTkQTzAKM3JQHnh3_FzOqytvmz5d?hl=zh-cn) has been released.
-- Training and testing codes of [ProFiT](https://github.com/YZCU/SpectralTrack/blob/main/training%20and%20testing%20codes%20of%20SpectralTrack%20and%20SpectralTrack%2B.zip) has been released.
-- Tracking results [ProFiT](https://github.com/YZCU/SpectralTrack/blob/main/rect_results%20of%20SpectralTrack%20and%20SpectralTrack%2B.zip) has been released.
+- Trained model of [ProFiT](https://drive.google.com/drive/folders/1DACvDnSUr99kkf8lSVH8TtNkCfYiQwok?hl=zh-cn) has been released.
+- Training and testing code of [ProFiT](https://github.com/YZCU/ProFiT/blob/main/training%20and%20testing%20codes%20of%20profit.zip) has been released.
+- Tracking result of [ProFiT](https://github.com/YZCU/ProFiT/blob/main/rect_result%20of%20profit.zip) has been released.
 --------------------------------------------------------------------------------------
 | Benchmark | ProFiT (Pre/Suc)|
 | ------------------------------ | ------------------- |
@@ -55,10 +55,10 @@ git clone https://github.com/YZCU/ProFiT.git
 
 - Training: Please download the hyperspectral training and testing sets: [HOTC20](https://www.hsitracking.com/hot2022/), [HOTC23](https://www.hsitracking.com/hot2022/), [HOTC24](https://www.hsitracking.com/hot2022/), [MSSOT](https://github.com/Chenlulu1993/SMT), [MSVT](https://github.com/polwork/HOMG). 
 
-- Fast Training: Download the [pre-trained model](https://drive.google.com/drive/folders/189muRTkQTzAKM3JQHnh3_FzOqytvmz5d?hl=zh-cn) of ProFiT. Put it into `<pretrained_models>`.
+- Fast Training: Download the [pre-trained model](https://drive.google.com/drive/folders/1TmeLLUUScQjpFwX1qhvAgmA85E3S6UN0?hl=zh-cn) of ProFiT. Put it into `<pretrained_models>`.
 - Run `<tracking/train.py>` to train ProFiT.
 - The well-trained ProFiT model is put into `<output/train/yzcu/yzcu-ep150-full-256_shared/yzcu_ep0015.pth.tar>`.
-- We have also released the well-trained [ProFiT](https://drive.google.com/drive/folders/189muRTkQTzAKM3JQHnh3_FzOqytvmz5d?hl=zh-cn) tracking models.
+- We have also released the well-trained [ProFiT](https://drive.google.com/drive/folders/1DACvDnSUr99kkf8lSVH8TtNkCfYiQwok?hl=zh-cn) tracking models.
 - Testing: Run `<tracking/test.py>` for testing, and results are saved in `<output/results/yzcu/yzcu-ep150-full-256_shared>`.
 - Evaluating: Please download the evaluation benchmark [Toolkit](http://cvlab.hanyang.ac.kr/tracker_benchmark/) and [vlfeat](http://www.vlfeat.org/index.html) for more accurate evaluation.
 - Refer to the [Hyperspectral Object Tracking Challenge](https://www.hsitracking.com/hot2022/) for detailed evaluations.
