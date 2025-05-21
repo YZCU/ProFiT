@@ -44,6 +44,7 @@ Xianyu Jin
 ```
 git clone https://github.com/YZCU/ProFiT.git
 ```
+--------------------------------------------------------------------------------------
 ## Environment
  > * CUDA 11.8
  > * Python 3.9.18
