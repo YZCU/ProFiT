@@ -2,7 +2,7 @@
 ### [**ProFiT**](https://www.sciencedirect.com/science/article/)
 
 - The implementation for "**ProFiT: A Prompt-Guided Frequency-Aware Filtering and Template-Enhanced Interaction Framework for Hyperspectral Video Tracking**".
-- ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS), 2025.
+- ISPRS Journal of Photogrammetry and Remote Sensing, 2025.
 --------------------------------------------------------------------------------------
 
 :running:Keep updating:running::
@@ -83,10 +83,10 @@ git clone https://github.com/YZCU/ProFiT.git
 ```
 -->
 
---------------------------------------------------------------------------------------
-
 ## Contact
 - If you have any questions or suggestions, feel free to contact me.  
 - Email: yzchen1006@163.com
+
 :heart:  :heart: We sincerely appreciate the insightful feedback provided by Editors and Reviewers. :heart:  :heart:
+
 --------------------------------------------------------------------------------------
