@@ -10,6 +10,18 @@
 - Training and testing codes of [ProFiT](https://github.com/YZCU/SpectralTrack/blob/main/training%20and%20testing%20codes%20of%20SpectralTrack%20and%20SpectralTrack%2B.zip) has been released.
 - Tracking results [ProFiT](https://github.com/YZCU/SpectralTrack/blob/main/rect_results%20of%20SpectralTrack%20and%20SpectralTrack%2B.zip) has been released.
 --------------------------------------------------------------------------------------
+| Benchmark | ProFiT (Pre/Suc)|
+| ------------------------------ | ------------------- |
+| [HOTC20](https://www.hsitracking.com/) |0.971 / 0.758|
+| [NIR23](https://www.hsitracking.com/) |0.947 / 0.754|
+| [RedNIR23](https://www.hsitracking.com/) |0.755 / 0.613|
+| [VIS23](https://www.hsitracking.com/) |0.915 / 0.720|
+| [NIR24](https://www.hsitracking.com/) |0.949 / 0.763|
+| [RedNIR24](https://www.hsitracking.com/) |0.750 / 0.581|
+| [VIS24](https://www.hsitracking.com/) |0.721 / 0.561|
+| [MSSOT](https://www.sciencedirect.com/science/article/pii/S0924271623002551) |0.857 / 0.602| 
+| [MSVT](https://www.sciencedirect.com/science/article/pii/S0924271621002860) |0.967 / 0.754| 
+--------------------------------------------------------------------------------------
 
 <!--
 - Authors:
@@ -39,21 +51,7 @@ git clone https://github.com/YZCU/ProFiT.git
  > * PyTorch 2.0.0
  > * Torchvision 0.15.0
  > * numpy 1.25.0
---------------------------------------------------------------------------------------
-:running:Keep Updating:running:: More detailed tracking results for ProFiT have been released.
-| Benchmark            | ProFiT (Pre/Suc)  |
-| ------------------------------ | ------------------- |
-| [HOTC20](https://www.hsitracking.com/)           |  0.971 / 0.758  |
-| [NIR23](https://www.hsitracking.com/)        |  0.947 / 0.754  |
-| [RedNIR23](https://www.hsitracking.com/)     |  0.755 / 0.613  |
-| [VIS23](https://www.hsitracking.com/)        |  0.915 / 0.720  |
-| [NIR24](https://www.hsitracking.com/)        |  0.949 / 0.763  |
-| [RedNIR24](https://www.hsitracking.com/)     |  0.750 / 0.581  |
-| [VIS24](https://www.hsitracking.com/)        |  0.721 / 0.561  |
-| [MSSOT](https://www.sciencedirect.com/science/article/pii/S0924271623002551)             |  0.857 / 0.602  | https://github.com/YZCU/ProFiT/tree/main/tracking_results/mssot           |
-| [MSVT](https://www.sciencedirect.com/science/article/pii/S0924271621002860)             |  0.967 / 0.754  | https://github.com/YZCU/ProFiT/tree/main/tracking_results/msvt            |
 
---------------------------------------------------------------------------------------
 
 ##  Install
 ```
