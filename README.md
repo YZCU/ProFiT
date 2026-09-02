@@ -1,1 +1,2 @@
 - Tracking result of [ProFiT](https://github.com/YZCU/ProFiT/blob/main/rect_result%20of%20profit.zip) has been released.
+- Tracking result of [ProFiT](https://github.com/YZCU/ProFiT/blob/main/ProFiT_on_MUST.rar) on MUST has been released.
